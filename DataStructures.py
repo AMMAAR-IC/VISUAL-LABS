@@ -1,5 +1,5 @@
 # Demonstrates: Lists, Dictionaries, Sets, Tuples
-
+ 
 # List
 fruits = ["apple", "banana", "cherry"]
 fruits.append("mango")
