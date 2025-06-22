@@ -1,5 +1,5 @@
 # Demonstrates: basic functions, parameters, return, recursion
-
+ 
 def greet(name):
     return f"Hello, {name}!"
 
