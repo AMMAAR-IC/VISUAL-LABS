@@ -1,5 +1,5 @@
 # Demonstrates: try-except, multiple exceptions, custom exception
-
+ 
 def divide(a, b):
     try:
         return a / b
