@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-
+ 
 lan = ["Python", "C", "C++", "JAVA", " "]
 pop = [90, 20, 55, 91, 0]
 
