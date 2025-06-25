@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-cars = [
+cars = [ 
     "Toyota Camry", "Honda Civic", "Ford F-150",
     "Tesla Model 3", "Hyundai Elantra", "Chevrolet Silverado",
     "Nissan Rogue", "Volkswagen Golf", "BMW 3 Series", "Subaru Outback"
